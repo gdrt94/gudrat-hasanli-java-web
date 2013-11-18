@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/web/index.jsp</file>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/web/admin.jsp</file>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/web/main.jsp</file>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/src/java/servletsFilters/AdminAndTimeFilter.java</file>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/src/java/servletsFilters/LoginFilter.java</file>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/src/java/servletsFilters/LoginServlet.java</file>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/src/java/servletsFilters/LogoutServlet.java</file>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/web/accessDeniedForAdmin.jsp</file>
+            <file>file:/C:/Users/Gudrat/Documents/NetBeansProjects/TimeFilterAppByGudrat/web/accessDenied.jsp</file>
+        </group>
+    </open-files>
+</project-private>
